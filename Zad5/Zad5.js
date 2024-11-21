@@ -12,4 +12,5 @@ function fibonacci(n) {
 
 console.log(fibonacci(3));
 console.log(fibonacci(9));
-console.log(fibonacci(50));
+console.log(fibonacci(60));
+console.log(fibonacci(80));
