@@ -21,4 +21,3 @@ function isHappyNumber(num) {
 }
 
 console.log(isHappyNumber(19));
-
